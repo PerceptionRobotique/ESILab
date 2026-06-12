@@ -22,6 +22,8 @@ The software is based on point clouds in **OCTI** format. This format is generat
 
 See the full [documentation](docs/ESILab_doc.pdf).
 
+Download sample [`OCTI folders`](https://extra.u-picardie.fr/nextcloud/index.php/s/ZPgQs8JKQ7mDKPC).
+
 ## ℹ️ About
 
 ESILab is developed by the **MIS Laboratory (Modélisation, Information & Systèmes)**  
