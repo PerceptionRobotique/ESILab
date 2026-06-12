@@ -10,7 +10,7 @@ The software is based on point clouds in **OCTI** format. This format is generat
 
 ## ⚙️ Installation Windows
 
-1. Download [`ESILab_Setup.exe`](https://github.com/PerceptionRobotique/ESILAB/releases/latest/download/Esilab_Setup.exe)
+1. Download [`ESILab_Setup.exe`](https://github.com/PerceptionRobotique/ESILAB/releases/download/latest/Esilab_Setup.exe)
 2. Run the installer from your Downloads folder  
    - If a Windows security warning appears, click **“More info”**, then **“Run anyway”**
 3. Follow the installation wizard
