@@ -20,7 +20,7 @@ The software is based on point clouds in **OCTI** format. This format is generat
 1. Click **File/Open Model** and select an **OCTI** file. Make sure that the file **`name`_LO.txt** is in the same folder as the **`name`.octi** file and that both share the same base name **`name`**.
 2. Use ESILab features to navigate through the point cloud, take screenshots, create cross-sections, generate videos, etc.
 
-See the full [documentation](docs/ESILab_doc.pdf).
+See the full [documentation](docs/Manuel_ESILab.pdf).
 
 Download sample [`OCTI folders`](https://extra.u-picardie.fr/nextcloud/index.php/s/ZPgQs8JKQ7mDKPC).
 
