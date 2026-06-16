@@ -19,7 +19,7 @@ Le logiciel se base sur des nuages de points au format **OCTI**. Format obtenu �
 1. Cliquer sur **File/Open Model** et sélectionner un fichier **OCTI**. Veiller à ce que le fichier **`name`_LO.txt** soit dans le même dossier que le fichier **`name`.octi** et que leurs noms **`name`** soient les mêmes.
 2. Utiliser les fonctionnalités d'ESILab pour naviguer dans le nuage de points, enregistrer des images, créer des coupes, générer des vidéos, etc... 
 
-Consulter la [documentation complète](docs/Manuel_ESILab.pdf).
+Consulter la [documentation complète](docs/Manuel_ESILab_fr.pdf).
 
 Télécharger des exemples de [`dossiers OCTI`](https://extra.u-picardie.fr/nextcloud/index.php/s/ZPgQs8JKQ7mDKPC).
 
