@@ -39,3 +39,22 @@ For any technical support requests, please contact:
 ## 📦 Versions
 
 👉 [See all releases](https://github.com/PerceptionRobotique/ESILab/releases)
+
+## Third-Party Libraries
+
+This software uses the following third-party components:
+
+- Qt (LGPL v3)
+- FFmpeg (LGPL)
+- GLM (MIT license)
+- XInput (Windows system API)
+
+These components are subject to their own licenses.
+
+See THIRD_PARTY_LICENSES.txt for full details.
+
+### Qt and FFmpeg compliance
+
+This application uses Qt and FFmpeg under the LGPL license.
+
+Users are allowed to replace or modify these libraries and relink the application accordingly, as required by the LGPL.

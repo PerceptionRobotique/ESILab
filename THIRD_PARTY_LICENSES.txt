@@ -1,0 +1,59 @@
+THIRD_PARTY_LICENSES
+
+This software includes third-party components listed below.
+Each component is licensed under its own terms.
+
+------------------------------------------------------------
+Qt (LGPL v3)
+------------------------------------------------------------
+
+This application uses the Qt framework.
+
+Qt is licensed under the GNU Lesser General Public License v3 (LGPL-3.0).
+
+Users of this software are entitled to:
+- Replace or modify the Qt libraries used by this application
+- Relink the application with modified versions of Qt
+
+Qt source code is available from:
+https://www.qt.io/licensing/
+https://download.qt.io/
+
+Full license text (LGPL v3):
+https://www.gnu.org/licenses/lgpl-3.0.txt
+
+------------------------------------------------------------
+FFmpeg (LGPL 2.1 or later)
+------------------------------------------------------------
+
+This application uses FFmpeg libraries in dynamic linking form.
+
+FFmpeg is licensed under the GNU Lesser General Public License (LGPL).
+
+Users may:
+- Replace or modify FFmpeg shared libraries
+- Relink the application with modified versions of FFmpeg
+
+FFmpeg source code:
+https://ffmpeg.org/download.html
+
+------------------------------------------------------------
+GLM (OpenGL Mathematics)
+------------------------------------------------------------
+
+This software uses GLM (OpenGL Mathematics library).
+
+GLM is licensed under a MIT-style license.
+
+GLM source code:
+https://github.com/g-truc/glm
+
+------------------------------------------------------------
+XInput (Microsoft Windows SDK)
+------------------------------------------------------------
+
+This software uses the XInput API provided by Microsoft Windows.
+
+XInput is part of the Windows operating system / DirectX SDK.
+
+No third-party redistribution license applies.

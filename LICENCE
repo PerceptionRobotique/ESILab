@@ -1,13 +1,11 @@
-Copyright (c) 2026 ESILab
+Copyright (c) 2026 ESILab / MIS Laboratory (UPJV)
 
 All rights reserved.
 
-This software is distributed in binary form only.
+This software is proprietary and distributed in binary form only.
 
-It is prohibited to:
-- decompile
-- disassemble
-- modify
-- redistribute
+You may not:
+- modify or reverse engineer the application except where permitted by law
+- redistribute the software as a standalone product without permission from the author
 
-without explicit permission from the author.
+This software includes third-party components licensed under their respective terms.
